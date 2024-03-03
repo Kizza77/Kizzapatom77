@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding and programming 
 - 🌱 I’m currently learning fullstack development on Udemy
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 How to reach me: Whatsapp +256778015677, Email: kizzapatrick77@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: A diehard Manchester United fun
 
 <!---
